@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/dynamics/",
+    "build": "vite build --base=/js_96_VPresich/",
     "preview": "vite preview"
   },
   "devDependencies": {
